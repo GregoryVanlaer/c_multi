@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6283463d-193f-4735-84a9-908c6fb1f665" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/labs/arrays/coding-exercises/solution/solution.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/labs/arrays/coding-exercises/solution/solution.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/arrays/coding-exercises/student/student.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/labs/arrays/coding-exercises/student/student.vcxproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1a7XULaoKrtFOyeJ6r32Evjoe1F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6283463d-193f-4735-84a9-908c6fb1f665" name="Default Changelist" comment="" />
+      <created>1586087620596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586087620596</updated>
+      <workItem from="1586087622762" duration="149000" />
+      <workItem from="1586942184392" duration="601000" />
+      <workItem from="1587218690613" duration="543000" />
+      <workItem from="1587374244088" duration="138000" />
+      <workItem from="1587374398048" duration="4041000" />
+      <workItem from="1587726618607" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="73" key="#Custom_Plugin_Repositories" timestamp="1587374351144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="73" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1587374351143" />
+    <state x="548" y="156" key="FileChooserDialogImpl" timestamp="1587374376612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587374376612" />
+    <state x="279" y="57" key="SettingsEditor" timestamp="1587374381718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587374381718" />
+  </component>
+</project>

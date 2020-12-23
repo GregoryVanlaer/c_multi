@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/labs/classes/coding-exercises/solution/counter/counter.iml" filepath="$PROJECT_DIR$/labs/classes/coding-exercises/solution/counter/counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/classes/coding-exercises/student/counter/counter1.iml" filepath="$PROJECT_DIR$/labs/classes/coding-exercises/student/counter/counter1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/extra/extra.iml" filepath="$PROJECT_DIR$/labs/extra/extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/labs/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/classes/coding-exercises/solution/person/person.iml" filepath="$PROJECT_DIR$/labs/classes/coding-exercises/solution/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/classes/coding-exercises/student/person/person1.iml" filepath="$PROJECT_DIR$/labs/classes/coding-exercises/student/person/person1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topics/topics.iml" filepath="$PROJECT_DIR$/topics/topics.iml" />
+    </modules>
+  </component>
+</project>
